@@ -7,6 +7,7 @@
 
 # git clone 
 cd ./examples/1/examples/todos-with-undo/
+export NODE_OPTIONS=--openssl-legacy-provider
 pnpm i && pnpm start
 
 ```
