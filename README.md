@@ -4,7 +4,11 @@
 ## Run it
 
 ```bash
+
+# git clone 
+cd ./examples/1/examples/todos-with-undo/
 pnpm i && pnpm start
+
 ```
 
 ## Spin it up
